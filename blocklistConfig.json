@@ -633,14 +633,6 @@
       "pack": []
     },
     {
-      "vname": "Scam and phishing (infinitytec)",
-      "format": "hosts",
-      "group": "security",
-      "subg": "threat-intelligence-feeds",
-      "url": "https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt",
-      "pack": []
-    },
-    {
       "vname": "Threats (infosec.cert-pa.it)",
       "format": "wildcard",
       "group": "security",
