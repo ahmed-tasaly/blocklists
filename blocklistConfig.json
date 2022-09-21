@@ -545,22 +545,6 @@
       "pack": []
     },
     {
-      "vname": "Domain blocklist basic (joewein.net) ",
-      "format": "domains",
-      "group": "security",
-      "subg": "threat-intelligence-feeds",
-      "url": "https://joewein.net/dl/bl/dom-bl-base.txt",
-      "pack": []
-    },
-    {
-      "vname": "Domain blocklist full (joewein.net)",
-      "format": "domains",
-      "group": "security",
-      "subg": "threat-intelligence-feeds",
-      "url": "https://joewein.net/dl/bl/dom-bl.txt",
-      "pack": []
-    },
-    {
       "vname": "Malware (mirror.cedia.org.ec)",
       "format": "domains",
       "group": "security",
